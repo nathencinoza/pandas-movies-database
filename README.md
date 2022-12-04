@@ -70,7 +70,7 @@ Los csvs son:
 
 ### Consignas realizadas
 
-#### + P9) De las películas que están siendo rumoreadas, ¿cuál es el título de la que presenta el presupuesto más alto?
++ #### P9) De las películas que están siendo rumoreadas, ¿cuál es el título de la que presenta el presupuesto más alto?
 
 #### + P13) Según los cinéfilos, ¿cuál es el rating promedio de las 5 películas más populares? Un usuario es cinéfilo cuando puntuó más de 50 películas y todas las puntuaciones son de más de 2.5 estrellas. Indicar id, título, popularidad y rating promedio de la película.
 
