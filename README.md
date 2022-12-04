@@ -50,7 +50,7 @@ Los csvs son:
   + keywords: palabras clave separadas por coma
 
 + ratings.csv
-  +u serId: user que dejó el rating
+  + userId: user que dejó el rating
   + movieId: película donde lo dejó
   + rating: el rating que dejó, del 1 al 5
   + timestamp: timestamp de cuando dejó el rating
