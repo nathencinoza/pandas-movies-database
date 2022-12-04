@@ -84,3 +84,17 @@ Los csvs son:
 
 
 + ##### V4) Realizar un heatmap de represente la correlación entre los géneros de películas.
+
+### También se realizaron 6 visualizaciones con distintos datasets: 
+
++ ##### [Notificación de casos de VIH](https://datos.gob.ar/dataset/salud-notificacion-casos-vih): 
+  + Heatmap.ipynb 
+  + Barplot.ipynb
+ 
++ ####  [Google Play Store Apps](https://www.kaggle.com/datasets/lava18/google-play-store-apps?select=googleplaystore.csv):
+  + Boxplot.ipynb
+  + ViolinPlot2.ipynb
+ 
+ + ####  [Alcohol Consumption](https://www.kaggle.com/datasets/sansuthi/alcohol-consumption):
+  + DensityPlot.ipynb
+  + ViolinPlot.ipynb 
